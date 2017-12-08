@@ -1,0 +1,3 @@
+[submodule "serverless-test-app"]
+	path = website
+	url = https://github.com/RDjkoh/serverless-test-app
